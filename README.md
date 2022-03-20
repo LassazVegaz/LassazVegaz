@@ -9,9 +9,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- _I am a Full Stack Software Engineer_ 😍 I would love to say like that but I am atually not 🙃 I am tryig to be one while studying Software Engineering 🎓
+- _I am a Full Stack Software Engineer_ 😍 also I am an undergraduate 🙃🎓
 
-- Meanwhile I am working as the CTO 💼 in Shield Technologies and also I do Freelancing in Fiverr.
+- As a side kick I am doing freelancing 💼
 
 - I am gatherig topics like Requirement Engineering, Software Design Patterns, Testing Techniques and other crazy stuff in my university 🤓
 
