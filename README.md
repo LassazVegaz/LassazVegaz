@@ -9,7 +9,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- _I am a Full Stack Software Engineer_ 😍 also I am an undergraduate 🙃🎓
+- _I am a Full Stack Senior Software Engineer_ 😍
+
+- I work for a company called HCL 💙
 
 - As a side kick I am doing freelancing 💼
 
