@@ -15,7 +15,7 @@
 
 - As a side kick I am doing freelancing 💼
 
-- I am gatherig topics like Requirement Engineering, Software Design Patterns, Testing Techniques and other crazy stuff in my university 🤓
+- I am gatherig topics like Requirement Engineering, Diagrams and other crazy stuff from my university 🤓
 
 - My programming side is comming from self studies 😎 I am chasing after official documentations, youtube channels and mostly my persanol dream software programs which always try to be just a dream 😐
 
@@ -48,9 +48,5 @@ Yeah I know. I am a MS FAN 🤩
 
 <br />
 <br />
-<br />
 
 <hr />
-Sooooooo if anyone is interested in by some miracle 😆 your are so welcome for a chit chat. I dont have much programming peeps around me 🙂
-<br />
-<a href="https://www.facebook.com/lasindu.nuwanga.5/" ><img src="./messenger-fill.png" /></a> <a href="https://www.instagram.com/lassaz_vegaz/" ><img src="./instagram-fill.png" /></a>
